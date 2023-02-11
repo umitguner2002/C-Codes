@@ -1,0 +1,17 @@
+C:\Users\emre\source\repos\CinsAptClient\CinsAptClient\bin\Debug\net6.0-windows\CinsAptClient.exe
+C:\Users\emre\source\repos\CinsAptClient\CinsAptClient\bin\Debug\net6.0-windows\CinsAptClient.deps.json
+C:\Users\emre\source\repos\CinsAptClient\CinsAptClient\bin\Debug\net6.0-windows\CinsAptClient.runtimeconfig.json
+C:\Users\emre\source\repos\CinsAptClient\CinsAptClient\bin\Debug\net6.0-windows\CinsAptClient.dll
+C:\Users\emre\source\repos\CinsAptClient\CinsAptClient\bin\Debug\net6.0-windows\CinsAptClient.pdb
+C:\Users\emre\source\repos\CinsAptClient\CinsAptClient\obj\Debug\net6.0-windows\CinsAptClient.csproj.AssemblyReference.cache
+C:\Users\emre\source\repos\CinsAptClient\CinsAptClient\obj\Debug\net6.0-windows\CinsAptClient.Form1.resources
+C:\Users\emre\source\repos\CinsAptClient\CinsAptClient\obj\Debug\net6.0-windows\CinsAptClient.csproj.GenerateResource.cache
+C:\Users\emre\source\repos\CinsAptClient\CinsAptClient\obj\Debug\net6.0-windows\CinsAptClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\source\repos\CinsAptClient\CinsAptClient\obj\Debug\net6.0-windows\CinsAptClient.AssemblyInfoInputs.cache
+C:\Users\emre\source\repos\CinsAptClient\CinsAptClient\obj\Debug\net6.0-windows\CinsAptClient.AssemblyInfo.cs
+C:\Users\emre\source\repos\CinsAptClient\CinsAptClient\obj\Debug\net6.0-windows\CinsAptClient.csproj.CoreCompileInputs.cache
+C:\Users\emre\source\repos\CinsAptClient\CinsAptClient\obj\Debug\net6.0-windows\CinsAptClient.dll
+C:\Users\emre\source\repos\CinsAptClient\CinsAptClient\obj\Debug\net6.0-windows\refint\CinsAptClient.dll
+C:\Users\emre\source\repos\CinsAptClient\CinsAptClient\obj\Debug\net6.0-windows\CinsAptClient.pdb
+C:\Users\emre\source\repos\CinsAptClient\CinsAptClient\obj\Debug\net6.0-windows\CinsAptClient.genruntimeconfig.cache
+C:\Users\emre\source\repos\CinsAptClient\CinsAptClient\obj\Debug\net6.0-windows\ref\CinsAptClient.dll

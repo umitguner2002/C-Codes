@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DZIKCH6DFygJFnPkdyUsDPsgFKQbtiUfomBQ0htqsR4Q2mXl0DW5Rm3nnzVMnsTCVMJJ1fxpqfVIwNMd7u1wBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emre\\source\\repos\\CinsAptServer\\CinsAptServer\\CinsAptServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emre\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
